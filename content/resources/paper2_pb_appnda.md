@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: paper2_pb_Appnda.pdf
-type: OCWFile
 uid: efc0c6ad-7bae-413c-f5ee-a2416f81c97b
 ---

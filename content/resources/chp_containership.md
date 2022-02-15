@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: chp_containership.jpg
-type: OCWImage
 uid: 09e8c879-385a-f3ac-dc0e-000ab66b639a
 ---

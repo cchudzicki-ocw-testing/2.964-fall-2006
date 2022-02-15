@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: market_econ.pdf
-type: OCWFile
 uid: 167d662f-4319-49c2-1f1a-a54de1d458f0
 ---

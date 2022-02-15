@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: fastferry_fpso.pdf
-type: OCWFile
 uid: 1a650c14-6b22-3d11-8928-47afff890e04
 ---

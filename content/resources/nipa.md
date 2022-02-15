@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: nipa.pdf
-type: OCWFile
 uid: 7b8c3736-70ba-24b9-56f7-5d0b7044762f
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: paper2_pb_slides.pdf
-type: OCWFile
 uid: cc096ca7-2961-db4a-31b4-c76a977252c8
 ---

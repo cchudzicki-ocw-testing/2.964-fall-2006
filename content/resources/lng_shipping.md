@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lng_shipping.pdf
-type: OCWFile
 uid: 0747ac2f-0673-164e-2418-1ed0bc47e5fe
 ---

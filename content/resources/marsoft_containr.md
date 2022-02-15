@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: marsoft_containr.pdf
-type: OCWFile
 uid: 7eeff492-f7cc-d317-b1e1-8348df62c45b
 ---

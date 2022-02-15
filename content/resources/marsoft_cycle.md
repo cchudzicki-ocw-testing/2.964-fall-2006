@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: marsoft_cycle.pdf
-type: OCWFile
 uid: 5d0f0bdc-412c-8c46-85e0-78456d615f1c
 ---

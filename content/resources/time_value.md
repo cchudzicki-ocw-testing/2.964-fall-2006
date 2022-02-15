@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: time_value.pdf
-type: OCWFile
 uid: 2d913129-1fff-195d-6fef-6a3a1399998c
 ---

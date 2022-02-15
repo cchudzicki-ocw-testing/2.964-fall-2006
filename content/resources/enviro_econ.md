@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: enviro_econ.pdf
-type: OCWFile
 uid: 2b035c57-f2e6-dae7-d6b1-3fa13a3991b1
 ---
