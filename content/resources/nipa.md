@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-964-econom
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
